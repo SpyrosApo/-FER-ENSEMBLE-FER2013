@@ -9,6 +9,7 @@ conda env create -f environment.yml
 https://www.kaggle.com/competitions/challenges-in-representation-learning-facial-expression-recognition-challenge/data
 ```
 **Step 3. Put the fer2013 csv file in the main folder**
+
 **Step 4. Download the pre-trained models from this link**
 ```
 svm_with_HE.ipynb
